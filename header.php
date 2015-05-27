@@ -6,6 +6,7 @@
 	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
 	<style>
 	.row.content {
+		margin-top:5px;
 		border:1px solid #ccc;
 		padding:20px;
 		border-radius:5px;
